@@ -1,0 +1,25 @@
+body {
+  background-color: antiquewhite;
+}
+
+.page-title {
+  text-align: center;
+  font-family: Arial;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-color:cornflowerblue;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.recipe-image {
+  height: 300px;
+  display: inline-block;
+}
+
+.recipe-name a {
+  color:darksalmon;
+}
